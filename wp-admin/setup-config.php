@@ -150,7 +150,7 @@ switch($step) {
 		}
 ?>
 <h1 class="screen-reader-text"><?php _e( 'Before getting started' ) ?></h1>
-<p><?php _e( 'Welcome to WordPress. Before getting started, we need some information on the database. You will need to know the following items before proceeding.' ) ?></p>
+<p><?php _e( '18-03-23_20-48 Welcome to WordPress. Before getting started, we need some information on the database. You will need to know the following items before proceeding.' ) ?></p>
 <ol>
 	<li><?php _e( 'Database name' ); ?></li>
 	<li><?php _e( 'Database username' ); ?></li>
