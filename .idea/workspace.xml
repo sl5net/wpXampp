@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd5f7d93-5d23-4272-ae54-d7a10a6e4a1e" name="Default" comment="test 23.03.2018 13:25">
+    <list default="true" id="fd5f7d93-5d23-4272-ae54-d7a10a6e4a1e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,8 +51,8 @@
       <file leaf-file-name="theme.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-includes/theme.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            <state relative-caret-position="102">
+              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -220,7 +220,7 @@
       <workItem from="1521741269656" duration="594000" />
       <workItem from="1521741938798" duration="106000" />
       <workItem from="1521807523138" duration="994000" />
-      <workItem from="1521820202527" duration="435000" />
+      <workItem from="1521820202527" duration="898000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1521739271818</created>
@@ -264,11 +264,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521807912869</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test 23.03.2018 13:25">
+      <created>1521820876777</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1521820876777</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6498000" />
+    <option name="totallyTimeSpent" value="6961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="1" width="1532" height="768" extended-state="0" />
@@ -582,8 +589,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/theme.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="102">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
         </state>
       </provider>
     </entry>
