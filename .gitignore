@@ -1,3 +1,8 @@
+/**/wp-config.php
+/**/wp-config-sample.php
+**/wp-config.php
+**/wp-config-sample.php
+
 *.log
 wp-config.php
 wp-content/advanced-cache.php
